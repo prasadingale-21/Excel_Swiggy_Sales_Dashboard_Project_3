@@ -1,6 +1,9 @@
 # Excel_Swiggy_Sales_Dashboard_Project_3
 I have built a professional Excel Dashboard from scratch using real-world Swiggy sales data. This project covers everything — from raw data cleaning and transformation to creating powerful visualizations and insights.
 
+# Download the Analysis Report with below link
+https://docs.google.com/spreadsheets/d/1135L-DxpWBtpBbYr-YZVtqKMdA22uBSg/edit?usp=sharing&ouid=104754062364515910954&rtpof=true&sd=true
+
 
 # Problem Statement
 
